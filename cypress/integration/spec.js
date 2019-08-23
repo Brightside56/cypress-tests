@@ -1,4 +1,4 @@
 it('loads page', () => {
   cy.visit('/')
-  cy.contains('Welcome to')
+  cy.contains('Microweber')
 })
